@@ -15,4 +15,4 @@ The user can compile the program and run it from the command line. The program w
 
 <h1>A notice</h1>
 
-this is basic code, please if any notice or ideas to upgrade the code tell me. I will so happy to that
+this is basic code, please if you have any notice or ideas to upgrade the code tell me. I will so happy to that
